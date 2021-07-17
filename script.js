@@ -49,14 +49,14 @@ $(document).ready(function(){
     });
     
     var typed = new Typed(".typing-3", {
-        strings: ["Harvard", "Data Science", "University of Maryland", "Animal Science"],
+        strings: ["Harvard", "University of Maryland"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     
     var typed = new Typed(".typing-4", {
-        strings: ["Google", "Data Scientist", "Quant User experience researcher"],
+        strings: ["Google"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
